@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="895b4741-0e49-43be-8288-4e966cd6037c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/03-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/03-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-frontend/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-frontend/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/03-frontend" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UceCbBBwgk2hQ2TjLrcdyEHWOU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "Z:/React Lessons/Challenges/github/eat-n-split/02-backend",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="895b4741-0e49-43be-8288-4e966cd6037c" name="Changes" comment="" />
+      <created>1693243169903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693243169903</updated>
+      <workItem from="1693243170964" duration="217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
