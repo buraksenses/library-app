@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7198c34-f6b3-4d28-9754-6aa8c8143d3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/dao/CheckoutRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/dao/CheckoutRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/entity/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/entity/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/entity/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/entity/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sirhot/springbootlibrary/SpringBootLibraryApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +84,7 @@
       <updated>1693830529478</updated>
       <workItem from="1693830530483" duration="867000" />
       <workItem from="1693861316448" duration="608000" />
-      <workItem from="1693862494839" duration="1723000" />
+      <workItem from="1693862494839" duration="3800000" />
     </task>
     <servers />
   </component>
