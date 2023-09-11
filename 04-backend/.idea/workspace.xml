@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7198c34-f6b3-4d28-9754-6aa8c8143d3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../03-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-frontend/src/layouts/BookCheckoutPage/LatestReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/layouts/BookCheckoutPage/LatestReviews.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-frontend/src/layouts/NavbarAndFooter/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/layouts/NavbarAndFooter/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/src/layouts/ShelfPage/ShelfPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/layouts/ShelfPage/ShelfPage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/dao/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/dao/BookRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/controller/BookController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/service/BookService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +122,7 @@
       <workItem from="1694087184040" duration="618000" />
       <workItem from="1694172495440" duration="4035000" />
       <workItem from="1694372095044" duration="1513000" />
-      <workItem from="1694426199979" duration="2750000" />
+      <workItem from="1694426199979" duration="5209000" />
     </task>
     <servers />
   </component>
