@@ -241,6 +241,17 @@ export const BookCheckoutPage = () => {
       reviewDescription
     );
     const url = `http://localhost:8080/api/reviews/secure`;
+    const requestOptions = {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${authState?.accessToken?.accessToken}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(reviewRequestModel),
+    };
+    const returnResponse = await fetch(url, requestOptions);
+    if (!returnResponse.ok) throw new Error("Something went wrong!");
+    setIsReviewLeft(true);
   }
 
   return (
@@ -275,6 +286,7 @@ export const BookCheckoutPage = () => {
             isCheckedOut={isCheckedOut}
             checkoutBook={checkoutBook}
             isReviewLeft={isReviewLeft}
+            submitReview={submitReview}
           />
         </div>
         <hr />
@@ -309,6 +321,7 @@ export const BookCheckoutPage = () => {
           isCheckedOut={isCheckedOut}
           checkoutBook={checkoutBook}
           isReviewLeft={isReviewLeft}
+          submitReview={submitReview}
         />
         <hr />
         <LatestReviews reviews={reviews} bookId={book?.id} mobile={true} />
