@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7198c34-f6b3-4d28-9754-6aa8c8143d3b" name="Changes" comment="" />
+    <list default="true" id="e7198c34-f6b3-4d28-9754-6aa8c8143d3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../03-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/src/layouts/BookCheckoutPage/LatestReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/layouts/BookCheckoutPage/LatestReviews.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/src/layouts/NavbarAndFooter/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/layouts/NavbarAndFooter/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/dao/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/dao/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/service/BookService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,9 +59,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2UvqiZMI3ZLB2iSuEAEXxCZHzU9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -74,6 +86,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "spring.configuration.checksum": "59e8145a0c67ddfe098bcc6075aa67c6",
     "vue.rearranger.settings.migration": "true"
   }
@@ -111,6 +124,7 @@
       <workItem from="1694087184040" duration="618000" />
       <workItem from="1694172495440" duration="4035000" />
       <workItem from="1694372095044" duration="1513000" />
+      <workItem from="1694426199979" duration="2750000" />
     </task>
     <servers />
   </component>
@@ -127,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

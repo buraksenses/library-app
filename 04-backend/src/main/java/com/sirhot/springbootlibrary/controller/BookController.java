@@ -1,9 +1,12 @@
 package com.sirhot.springbootlibrary.controller;
 
 import com.sirhot.springbootlibrary.entity.Book;
+import com.sirhot.springbootlibrary.responsemodels.ShelfCurrentLoansResponse;
 import com.sirhot.springbootlibrary.service.BookService;
 import com.sirhot.springbootlibrary.utils.ExtractJWT;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 @RestController
 @CrossOrigin("http://localhost:3000")
@@ -19,6 +22,12 @@ public class BookController {
     public Book checkoutBook(@RequestHeader(value = "Authorization") String token, @RequestParam Long bookId) throws Exception {
         String userEmail = ExtractJWT.payloadJWTExtraction(token,"\"sub\"");
         return bookService.checkoutBook(userEmail, bookId);
+    }
+
+    @GetMapping("/secure/currentloans")
+    public List<ShelfCurrentLoansResponse> currentLoans(@RequestHeader(value = "Authorization") String token) throws Exception{
+        String userEmail = ExtractJWT.payloadJWTExtraction(token,"\"sub\"");
+        return bookService.currentLoans(userEmail);
     }
 
     @GetMapping("/secure/ischeckedout/byuser")
