@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7198c34-f6b3-4d28-9754-6aa8c8143d3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../03-frontend/src/layouts/ShelfPage/ShelfPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/layouts/ShelfPage/ShelfPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/src/layouts/NavbarAndFooter/HomePage/components/LibraryServices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/src/layouts/NavbarAndFooter/HomePage/components/LibraryServices.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/config/MyDataRestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/config/MyDataRestConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sirhot/springbootlibrary/service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/controller/BookController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sirhot/springbootlibrary/service/BookService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/SIRHOT/library-app/04-backend",
+    "last_opened_file_path": "D:/Fullstack Projects/library-app/04-backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -123,6 +123,10 @@
       <workItem from="1694172495440" duration="4035000" />
       <workItem from="1694372095044" duration="1513000" />
       <workItem from="1694426199979" duration="5209000" />
+      <workItem from="1694534554986" duration="3065000" />
+      <workItem from="1694608575661" duration="1533000" />
+      <workItem from="1694628981146" duration="20000" />
+      <workItem from="1694686613594" duration="1409000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,7 @@
 package com.sirhot.springbootlibrary.config;
 
 import com.sirhot.springbootlibrary.entity.Book;
+import com.sirhot.springbootlibrary.entity.Message;
 import com.sirhot.springbootlibrary.entity.Review;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
@@ -18,7 +19,9 @@ public class MyDataRestConfig implements RepositoryRestConfigurer {
         config.exposeIdsFor(Book.class);
         disableHttpMethods(Book.class, config, theUnsupportedActions);
         config.exposeIdsFor(Review.class);
-        disableHttpMethods(Review.class,config,theUnsupportedActions);
+        disableHttpMethods(Review.class, config, theUnsupportedActions);
+        config.exposeIdsFor(Message.class);
+        disableHttpMethods(Message.class, config, theUnsupportedActions);
 
         cors.addMapping(config.getBasePath() + "/**")
                 .allowedOrigins(theAllowedOrigins);
